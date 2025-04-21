@@ -1,8 +1,8 @@
-# Data Analytics
+# VisualDataTool
 
 ## 📊 Overview
 
-**DataAnalytics** is a modular and interactive data analysis platform built with Python. It leverages **Streamlit** for the user interface, enabling users to perform data exploration, preprocessing, and machine learning tasks seamlessly. The platform is designed to be extensible, allowing for easy integration of new features and models.
+**VisulaDataTool** is a modular and interactive data analysis platform built with Python. It leverages **Streamlit** for the user interface, enabling users to perform data exploration, preprocessing, and machine learning tasks seamlessly. The platform is designed to be extensible, allowing for easy integration of new features and models.
 
 This project was developed as a **class-wide assignment** for the **Object-Oriented Programming in Python** course during our **Master’s program**. It involved collaborative efforts from all students to design and build a robust analytical tool from scratch.
 
@@ -16,8 +16,8 @@ This project was developed as a **class-wide assignment** for the **Object-Orien
 ### Installation
 1. Clone the repository:
 ```bash 
-git clone https://github.com/rishitiwari08/DataAnalytics.git
-cd DataAnalytics
+git clone https://github.com/MilanMavani/VisualDataTool.git
+cd VisualDataTool
 ```
 2. Create a Virtual environment:
 ```bash 
